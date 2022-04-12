@@ -1,0 +1,12 @@
+.home {
+  background-color: aliceblue;
+  text-align: center;
+}
+.home h1,
+.home h5 {
+  padding: 20px;
+  color: navy;
+}
+.home button {
+  margin: 30px;
+}
